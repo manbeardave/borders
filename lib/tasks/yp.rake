@@ -1,0 +1,2 @@
+namespace :yp do
+end
